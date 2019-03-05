@@ -6,4 +6,4 @@ It was made with Python in PyCharm IDE.
 
 Update: The lastest version isn't working, so I'll put it back when it's done.
 
-More information in my final paper:
+More information in my final paper: https://docs.google.com/document/u/1/d/e/2PACX-1vRH53OERU1Hn2250jgHkqgsTfRcCBK4q_8GwxchraeNqVUZ0f5EE8IXgnfYu5iUi2J-ubtuw19JTl4b/pub
