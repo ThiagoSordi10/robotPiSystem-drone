@@ -1,6 +1,6 @@
 # robotPiSystem-drone
 
-This is a open-source project of a land drone that is controlled by a smartphone app, and receive this commands through the WebService. 
+This is a open-source project of a Raspberry Pi's land drone that is controlled by a smartphone app, and receive this commands through the WebService. 
 It's not complete the client part yet, then the drone only operates by itself. 
 It was made with Python in PyCharm IDE.
 
